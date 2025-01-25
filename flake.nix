@@ -20,6 +20,7 @@
           bun
           git
           biome
+          wrangler
         ];
 
         BIOME_BINARY = "${pkgs.biome}/bin/biome";
