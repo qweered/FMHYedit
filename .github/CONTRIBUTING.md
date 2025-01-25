@@ -100,7 +100,7 @@ Select edit button and make your changes.
 
 1. Fork the repository by clicking the "Fork" button in the top right corner.
 
-2. Make sure you have [Node.js](https://nodejs.org/en/), [pnpm](https://pnpm.io/), [git](https://git-scm.com/), and [VSCode](https://code.visualstudio.com/) or any other editor installed. Alternatively, `pnpm` has `pnpm env` you can use to manage Node.
+2. Make sure you have [Node.js](https://nodejs.org/en/), [bun](https://bun.sh/), [git](https://git-scm.com/), and [VSCode](https://code.visualstudio.com/) or any other editor installed.
 
 3. Clone your forked repository to your local machine.
 
@@ -112,7 +112,7 @@ Select edit button and make your changes.
 
 #### Nix
 
-You can use [nix](https://nixos.org/) to set up a development environment, we have a [flake](https://nixos.wiki/wiki/Flakes) that setups `nodejs` and `pnpm`.
+You can use [nix](https://nixos.org/) to set up a development environment, we have a [flake](https://nixos.wiki/wiki/Flakes) that setups `nodejs` and `bun`.
 
 1. Fork the repository by clicking the "Fork" button in the top right corner and clone your forked repository to your local machine.
 

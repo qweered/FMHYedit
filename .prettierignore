@@ -1,5 +1,4 @@
 **/*.md
 !docs/index.md
-pnpm-lock.yaml
 .turbo
 .cache

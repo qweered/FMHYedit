@@ -17,9 +17,17 @@
       default = pkgs.mkShell {
         packages = with pkgs; [
           nodejs
-          pnpm
+          bun
           git
+          biome
         ];
+
+        BIOME_BINARY = "${pkgs.biome}/bin/biome";
+
+        shellHook = ''
+            echo "dev env started"
+            fish && echo "exit dev env" && exit
+        '';
       };
     });
   };

@@ -3,6 +3,6 @@
   "features": {},
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "name": "FMHYedit",
-  "postAttachCommand": "pnpm docs:dev",
-  "postStartCommand": "pnpm install"
+  "postAttachCommand": "bun docs:dev",
+  "postStartCommand": "bun install"
 }

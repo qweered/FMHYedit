@@ -17,24 +17,35 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [20]
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
-      - uses: oven-sh/setup-bun@v2
+
+      - name: Setup bun
+        uses: oven-sh/setup-bun@v2
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: ${{ matrix.node-version }}
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
+
       - name: Install dependencies
         run: bun install --frozen-lockfile
+
       - name: Build with VitePress
         run: |
-          bun run docs:build
+          bun docs:build
           touch docs/.vitepress/dist/.nojekyll
+
       - name: Upload artifact
         id: deployment
         uses: actions/upload-pages-artifact@v3
