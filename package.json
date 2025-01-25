@@ -1,9 +1,6 @@
 {
   "name": "fmhy",
   "type": "module",
-  "engines": {
-    "node": "21.7.3"
-  },
   "scripts": {
     "api:build": "nitropack build",
     "api:deploy": "wrangler deploy",
@@ -21,7 +18,6 @@
     "og:dev": "x-satori -t ./docs/.vitepress/hooks/Template.vue -c ./docs/.vitepress/hooks/satoriConfig.ts --dev"
   },
   "dependencies": {
-    "@fmhy/colors": "^0.0.11",
     "@fmhy/components": "^0.0.3",
     "@headlessui/vue": "^1.7.23",
     "@resvg/resvg-js": "^2.6.2",
