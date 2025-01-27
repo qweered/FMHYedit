@@ -48,7 +48,6 @@
 # ► Developer Tools
 
 * 🌐 **[Best-Websites](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)** - Programming Resources
-* 🌐 **[Free For Dev](https://free-for.dev/)** - Developer Resources
 * 🌐 **[Awesome Sys Admin](https://github.com/awesome-foss/awesome-sysadmin)** - System Admin Resources
 * 🌐 **[Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)** - Design Pattern Resources
 * ↪️ **[Multi-Tool Dev Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_dev_tool_sites)**
@@ -164,7 +163,7 @@
 * 🌐 **[DB Engines](https://db-engines.com/en/ranking)** or [DBDB](https://dbdb.io/stats) - Database Rankings
 * 🌐 **[Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)** - Data Engineering Tools
 * 🌐 **[Awesome Big Data](https://github.com/newTendermint/awesome-bigdata)** - Big Data Resources
-* ⭐ **[DB Browser](https://sqlitebrowser.org/)**, [⁠DuckDB](https://duckdb.org/), [SQL Lite Studio](https://sqlitestudio.pl/) or [HeidiSQL](https://www.heidisql.com/) - SQL Managers
+* ⭐ **[DB Browser](https://sqlitebrowser.org/)**, [SQLook](https://sqlook.com/), [⁠DuckDB](https://duckdb.org/), [SQL Lite Studio](https://sqlitestudio.pl/) or [HeidiSQL](https://www.heidisql.com/) - SQL Managers
 * [Sqlable](https://sqlable.com/) - SQL Tools
 * [Grafana](https://grafana.com/) or [Beszel](https://beszel.dev/) - Dev Data Dashboards
 * [DBeaver](https://dbeaver.io/) - Universal Database Tool
@@ -326,7 +325,7 @@
 * [Charm](https://charm.sh/) - Add Backend to Terminal Based Apps
 * [OhMyPosh](https://ohmyposh.dev/) - Terminal Theme Engines
 * [sshx](https://sshx.io/) - Share Terminal Screen / [GitHub](https://github.com/ekzhang/sshx)
-* [cURL](https://curl.se/) - Transfer Data with URLs / [Converter](https://curlconverter.com/)
+* [cURL](https://curl.se/) - Transfer Data with URLs / [Converter](https://curlconverter.com/) / [IP Lookup](http://ifconfig.me/)
 * [ripgrep](https://github.com/BurntSushi/ripgrep) or [Sift](https://sift-tool.org/) - grep Alternatives
 * [Edbrowse](https://edbrowse.org/) - Command Line Editor / Browser / Mail Client
 * [Command Not Found](https://command-not-found.com/) - Install Missing Commands
@@ -347,7 +346,7 @@
 * 🌐 **[List of Providers](https://docs.consumet.org/list-of-providers)** - Piracy Site APIs
 * 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)**, [FreeAPIProviders](https://rentry.co/freeapiproviders ), [cool ai stuff!](https://cas.zukijourney.com/), [Respy](https://respy.tech/api-providers/) or [API Together](https://api.together.xyz/playground) - LLM / AI API Indexes
 * ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/), [Strapi](https://strapi.io/) or [Postman](https://www.postman.com/) - API Builders
-* ⭐ **[Shizuku](https://shizuku.rikka.app/)** - Let Apps Use System API (Android)
+* ⭐ **[Shizuku](https://shizuku.rikka.app/)** or [Dhizuku](https://github.com/iamr0s/Dhizuku) - Let Apps Use System API (Android)
 * [Wyzie Subs](https://sub.wyzie.ru/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib)
 * [HTTPie](https://httpie.io/) - Test REST, GraphQL, and HTTP APIs
 * [Rest Test Test](https://resttesttest.com/) - Test REST / CORS Services
@@ -868,7 +867,7 @@
 * [Contentdrips](https://contentdrips.com/) or [CreatorKit](https://creatorkit.com/) - Brand Design Tools
 * [SuperNova](https://www.supernova.io/) - Design System Manager
 * [Interplay](https://interplayapp.com/) - Product Design Tool
-* [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Wave Guide](https://www.waveguide.io/), [ReallyGoodUX](https://goodux.appcues.com/) or [Pageflows](https://pageflows.com/) - UI Design Ideas
+* [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Wave Guide](https://www.waveguide.io/), [Godly Website](https://godly.website/), [ReallyGoodUX](https://goodux.appcues.com/) or [Pageflows](https://pageflows.com/) - UI Design Ideas
 * [StoryBook](https://storybook.js.org/) or [Mockend](https://mockend.com/) - UI Development Tools
 * [UI Design Daily](https://www.uidesigndaily.com/) or [UIVerse](https://uiverse.io/) - Free UI Design Resources
 * [Open UI](https://open-ui.org/) - Open Standard UI
@@ -1055,6 +1054,7 @@
 * [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources) - Cybersecurity Resources
 * [Infosec Resources](https://github.com/stong/infosec-resources) - Cybersecurity Resources
 * [CyberSecTools](https://cybersectools.com/) - Cybersecurity Resources
+* [My Infosec Awesome](https://github.com/pe3zx/my-infosec-awesome) - Infosec Resources
 
 ***
 

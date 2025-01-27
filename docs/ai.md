@@ -34,6 +34,7 @@
 * [⁠Heck.ai](https://heck.ai/) - GPT-4o + Deepseek V3
 * [Lutton](https://wrtn.ai/) - GPT-4 / [English Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#lutton-note) / No Signup / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170)
 * [NextChat](https://nextchat.dev/) - Multiple Chatbots / [Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nextchat_instances) / [GitHub](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
+* [⁠Polychat](https://polychat.co/) - Multiple Chatbots / No Signup
 * [Tune Chat](https://tunehq.ai/tune-chat) - Multiple Chatbots / 24 Msgs per Chat / No Signup / [Discord](https://discord.com/invite/KhF38hrAJ2)
 * [freegpt4](https://rentry.org/freegpt4) - Free GPT-4 Methods / No Signup
 * [Groq](https://groq.com/) - Llama 3 and Mixtral Chatbots / [Discord](https://discord.gg/invite/groq)
@@ -57,7 +58,7 @@
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4o Powered Search / No Signup / [SydneyQT Jailbreak](https://github.com/juzeon/SydneyQt)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-4o Powered Search / [Enhancments](https://www.cplx.app/) / [Open Source Models](https://labs.perplexity.ai/) /  / [Discord](https://discord.com/invite/perplexity-ai)
 * ⭐ **[WolframAlpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / No Signup / [Mobile](https://rentry.co/FMHYBase64#wolfram-mobile)
-* ⭐ **[Scira](https://scira.app/)** - Grok Based Search Engine / No Signup / [GitHub](https://github.com/zaidmukaddam/miniperplx/)
+* ⭐ **[Scira](https://scira.app/)** - Grok Based Search Engine / No Signup / [GitHub](https://github.com/zaidmukaddam/scira)
 * ⭐ **[You](https://you.com/)** - AI Search Engine / Signup Required / [Discord](https://discord.com/invite/youdotcom) / [GitHub](https://github.com/You-OpenSource)
 * [Hyperspace](https://hyper.space/) - P2P AI Network / No Signup / [Web App](https://play.hyper.space/), [2](https://compute.hyper.space/) / [GitHub](https://github.com/hyperspaceai) 
 * [Phind](https://www.phind.com/) - Llama Search Engine / No Signup / [Discord](https://discord.gg/S25yW8TebZ)
@@ -132,6 +133,7 @@
 * [OpenHands](https://www.all-hands.dev/) - Coding AI / [Discord](https://discord.gg/ESHStjSjD4) / [GitHub](https://github.com/All-Hands-AI/OpenHands)
 * [Continue](https://continue.dev/) - Coding AI / [Discord](https://discord.com/invite/EfJEfdFnDQ) / [GitHub](https://github.com/continuedev/continue)
 * [GitHub Copilot](https://github.com/features/copilot) - Coding AI
+* [⁠Trae](https://www.trae.ai/) - Coding AI
 * [Cline](https://github.com/cline/cline) - Coding AI / [Discord](https://discord.gg/cline)
 * [Qodo](https://www.qodo.ai/) - Coding AI
 * [Blackbox](https://www.blackbox.ai/) - Coding AI / No Signup
@@ -174,6 +176,10 @@
 ***
 
 ## ▷ AI Prompts
+
+* **Note** - Bypassing chatbot safeguards (aka jailbreaking) is against the TOS of most AI, so use them at your own risk.
+
+***
 
 * 🌐 **[Jailbreak Listings](https://rentry.org/jb-listing)** - Prompt / Jailbreak Lists
 * ⭐ **[Awesome ChatGPT Prompts](https://prompts.chat/)** - Prompt Directory / [GitHub](https://github.com/f/awesome-chatgpt-prompts)
@@ -224,6 +230,7 @@
 * [ZeroEval](https://huggingface.co/spaces/allenai/ZeroEval) - Chatbot Leaderboard / [GitHub](https://github.com/WildEval/ZeroEval)
 * [⁠OpenRouter](https://openrouter.ai/) - Chatbot Leaderboard / [Discord](https://discord.gg/fVyRaUDgxW) / [GitHub](https://github.com/OpenRouterTeam) 
 * [LLM Stats](https://llm-stats.com/) - Chatbot Leaderboard
+* [OpenLM Arena](https://openlm.ai/chatbot-arena/) - Chatbot Leaderboard
 * [Artificial Analysis](https://artificialanalysis.ai/) - Chatbot Benchmarks
 * [The Fastest AI](https://thefastest.ai/) - Chatbot Latency Speeds / [GitHub](https://github.com/fixie-ai/thefastest.ai) 
 
@@ -261,7 +268,8 @@
 * [Kling AI](https://klingai.com/) - Video Generator / [Discord](https://discord.com/invite/8tj8YjSzKr) 
 * [Pika](https://www.pika.art/) - Video Generator / [Discord](https://discord.com/invite/pika)
 * [⁠Fusion Brain](https://fusionbrain.ai/en/) - Video Generator
-* [Krea](https://www.krea.ai/) - 10 Daily / No Signup / [Discord](https://discord.gg/rJurUAR8Kz)
+* [Dreamina](https://dreamina.capcut.com/ai-tool/home) -  Video Generator / 50 Daily
+* [Krea](https://www.krea.ai/) -  Video Generator / 10 Daily / No Signup / [Discord](https://discord.gg/rJurUAR8Kz)
 * [Hailuo AI](https://hailuoai.com/video) - Video Generator / Use Translator / [Discord](https://discord.com/invite/hvvt8hAye6)
 * [Rollideo](https://rollideo.com/) - Text to Subbed Video / No Signup
 
@@ -300,6 +308,7 @@
 * [Pollinations](https://pollinations.ai/) / Unlimited / No Signup / [Discord](https://discord.gg/k9F7SyTgqn) / [GitHub](https://www.github.com/pollinations/pollinations) 
 * [PicFinder](https://picfinder.ai/) / Unlimited
 * [AIGazou](https://muryou-aigazou.com/) / Unlimited
+* [Dreamina](https://dreamina.capcut.com/ai-tool/home) - 50 Daily / Sign-Up Required
 * [Perchance](https://perchance.org/ai-text-to-image-generator), [2](https://perchance.org/ai-photo-generator) / Unlimited / No Signup
 * [getimg.ai](https://getimg.ai/) / 100 Monthly / [Discord](https://discord.com/invite/5KsUXSzVwS)
 * [Adobe Firefly](https://firefly.adobe.com/) / 25 Monthly / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
@@ -394,6 +403,7 @@
 * [FakeYou](https://fakeyou.com/) / No Signup / [Discord](https://discord.gg/fakeyou)
 * [Luvvoice](https://luvvoice.com/) / No Signup
 * [TTSMaker](https://ttsmaker.com/) / No Signup
+* [edge-tts](https://github.com/rany2/edge-tts) / No Signup / Python Module
 * [Voices](https://www.hailuo.ai/audio/voices)
 * [TextToSpeech.io](https://texttospeech.io/)
 * [LazyPy](https://lazypy.ro/tts/) / No Signup / [GitHub](https://github.com/chrisjp/tts)

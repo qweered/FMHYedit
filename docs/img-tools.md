@@ -23,7 +23,7 @@
 
 * ⭐ **[m0nkrus](https://w16.monkrus.ws/)** / [2](https://vk.com/monkrus) - Adobe Software Archive / Use VPN / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb) / [Search](https://monkrus.dvuzu.com/) / [Telegram](https://t.me/real_monkrus)
 * ⭐ **[GIMP](https://www.gimp.org/)**
-* ⭐ **GIMP Tools** - [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Batch Editor](https://github.com/alessandrofrancesconi/gimp-plugin-bimp)
+* ⭐ **GIMP Tools** - [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Batch Editor](https://github.com/alessandrofrancesconi/gimp-plugin-bimp) / [Text Effects](https://github.com/LinuxBeaver?tab=repositories)
 * ⭐ **[Pinta Project](https://www.pinta-project.com/)**
 * [darktable](https://www.darktable.org/) - Virtual Lighttable & Darkroom
 * [RawTherapee](https://www.rawtherapee.com/) - Raw Image Editor
@@ -697,7 +697,7 @@
 * ⭐ **[qView](https://interversehq.com/qview/)**
 * ⭐ **[XnView MP](https://www.xnview.com/en/xnviewmp/)**
 * ⭐ **[Digikam](https://www.digikam.org/)**
-* [nomacs](https://github.com/nomacs/nomacs)
+* [nomacs](https://nomacs.org/) / [GitHub](https://github.com/nomacs/nomacs)
 * [qimgv](https://github.com/easymodo/qimgv)
 * [oculante](https://github.com/woelper/oculante)
 * [PhotoQt](https://github.com/luspi/photoqt)

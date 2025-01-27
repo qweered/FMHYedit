@@ -38,11 +38,11 @@
 * ⭐ **[Go Speed](https://gopeed.com/)** - Download Manager / [GitHub](https://github.com/GopeedLab/gopeed) / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
 * ⭐ **[IDM](https://rentry.co/FMHYBase64#idm)** - Download Manager
 * [AB Download Manager](https://abdownloadmanager.com/) - Download Manager / [GitHub](https://github.com/amir1376/ab-download-manager) / [Telegram](https://t.me/abdownloadmanager_discussion)
-* [XDM](https://xtremedownloadmanager.com/) - Download Manager / [GitHub](https://github.com/subhra74/xdm)
-* [Motrix](https://www.motrix.app/) or [imFile](https://github.com/imfile-io/imfile-desktop) - Download Manager / [GitHub](https://github.com/agalwood/Motrix)
+* [imFile](https://github.com/imfile-io/imfile-desktop) - Download Manager / Updated Motrix Fork
 * [aria2](https://aria2.github.io/) or [Persepolis](https://persepolisdm.github.io/) - Terminal Download Manager / [GitHub](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [WebUI](https://github.com/ziahamza/webui-aria2), [2](https://ariang.mayswind.net/)
-* [ArrowDL](https://github.com/setvisible/ArrowDL/) - Download Manager
 * [pyLoad](https://pyload.net/) - Lightweight Download Manager
+* [ArrowDL](https://github.com/setvisible/ArrowDL/) - Download Manager / [GitHub](https://github.com/pyload/pyload)
+* [FDM](https://www.freedownloadmanager.org/) - Download Manager / [YTDL Addon](https://github.com/meowcateatrat/elephant)
 * [File Centipede](https://filecxx.com/) - Upload / Download Manager
 * [DownThemAll](https://www.downthemall.org/) or [Turbo Download Manager](https://add0n.com/turbo-download-manager-v2.html) / [GitHub](https://github.com/inbasic/turbo-download-manager-v2/) - Download Management Extensions
 * [HTTP Downloader](https://erickutcher.github.io/) - Download Manager for HTTP / FTP / SFTP Protocols / [GitHub](https://github.com/erickutcher/httpdownloader)
@@ -304,6 +304,7 @@
 * ⭐ **[Catbox](https://catbox.moe/)** - Unlimited / 200MB / Forever
 * ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB with Account) / Forever
 * [HIDAN](https://hidan.sh/) - Unlimited / 10+ Days (from upload)
+* [AnonDrop](https://anondrop.net/) - Unlimited / Remote upload / Embed Support 
 * [Send.now](https://send.now/) - 100GB / 100GB per file / 30 Days after last download
 * [DesiUpload](https://desiupload.co/) - Unlimited / 15 Days (15GB / 30 Days with Account)
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Account Required

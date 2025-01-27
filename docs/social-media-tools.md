@@ -296,9 +296,8 @@
 
 ## ▷ Telegram File Tools
 
+* ⭐ **[teldrive](https://github.com/tgdrive/teldrive)**, [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) / [Telegram](https://t.me/CodeXBotz), [TelegramCloud](https://github.com/iw4p/telegram-cloud), [easy_share_bot](https://t.me/easy_share_bot) or [UploadBot](https://t.me/uploadbot) - Upload Files to Telegram
 * [MediaDownBot](https://t.me/mediadownbot), [WZML-X](https://github.com/SilentDemonSD/WZML-X), [Telegram Media Downloader](https://greasyfork.org/en/scripts/446342), [TopSaverBot](https://t.me/TopSaverBot), [CatdlBot](https://t.me/CatdlBot) or [DownloadsMasterBot](https://t.me/DownloadsMasterBot) - Media Downloaders
-* [teldrive](https://github.com/divyam234/teldrive), [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) / [Telegram](https://t.me/CodeXBotz), [TelegramCloud](https://github.com/iw4p/telegram-cloud), [easy_share_bot](https://t.me/easy_share_bot) or [UploadBot](https://t.me/uploadbot) - Upload Files to Telegram
-
 * [GdriveXbot](https://t.me/TheGdriveXBot), [google-drive-telegram-bot](https://github.com/viperadnan-git/) or [Python Aria Mirror Bot](https://github.com/lzzy12/python-aria-mirror-bot) / [Telegram](https://t.me/pythonmirrorsupport) - Google Drive Upload Bots
 * [DrClonerBot](https://t.me/DrClonerBot) - Google Drive Clone Bot
 * [SearchX](https://github.com/iamLiquidX/SearchX) - Google Drive Search Bot
@@ -495,7 +494,7 @@
 
 # ► Twitch Tools
 
-* 🌐 **[Twitch Database](https://twitchdatabase.com/)** or [SullyGnome](https://sullygnome.com/) - Twitch Tool Indexes
+* 🌐 **[SullyGnome](https://sullygnome.com/)** - Twitch Tool Index
 * 🌐 **[Twitch Extensions](https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f)** - Twitch Extensions Index
 * ⭐ **[FrankerFacez](https://www.frankerfacez.com/)**, [BetterTTV](https://betterttv.com/) or [7TV](https://7tv.app/) - Twitch Enhancement Extensions
 * ⭐ **[TwitchNoSub](https://github.com/besuper/TwitchNoSub)** or [Sub-Vod](https://www.sub-vod.fr/) - Watch Sub Only Twitch Videos
@@ -607,7 +606,7 @@
 * [Control Panel for Twitter](https://jbscript.dev/control-panel-for-twitter) - Twitter Enhancement Extensions
 * [Minimal Twitter](https://typefully.com/minimal-twitter) - Minimal Twitter Themes
 * [OldTwitter](https://github.com/dimdenGD/OldTwitter) or [GoodTwitter2](https://github.com/Bl4Cc4t/GoodTwitter2) - Original Twitter Theme
-* [OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) - TweetDeck Dashboard
+* [OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) - Twitter Dashboard
 * [Twitter Plus](https://greasyfork.org/en/scripts/387969) - View Twitter Images in Original Quality
 * [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) - Remove All Twitter Metrics
 * [Thread Reader App](https://threadreaderapp.com/) - Unroll Twitter Threads / Search
@@ -638,16 +637,10 @@
 
 * 🌐 **[Instagram Tools](https://www.aware-online.com/en/osint-tools/instagram-tools/)** - Multiple Tools
 * 🌐 **[Instagram Search Tools](https://www.aware-online.com/en/osint-tools/instagram-search-tool/)** - Search Tool
+* ↪️ **[Instagram Viewers / Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_instagram_viewers_.2F_downloaders)** - View Profiles / Download Pictures
 * ⭐ **[Redirect Logins](https://greasyfork.org/en/scripts/420604)** - Redirect Instagram Login 
 * [InstaFix](https://ddinstagram.com/) - Fix Instagram Embeds on Discord
 * [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) or [Imginn](https://imginn.com) - Instagram Frontends
-* [Dumpor](https://dumpoir.com/) or [GreatFon](https://greatfon.com/) - Instagram Viewers
-* [StoriesDown](https://storiesdown.com/), [instasaved](https://instasaved.net/en) or [insta-stories-viewer](https://insta-stories-viewer.com/) - Story Downloaders
-* [FastDL](https://fastdl.app/en), [SaveFromWeb](https://www.savefromweb.com/), [Picuki](https://www.picuki.com/), [Downloadgram](https://downloadgram.org/) or [Mass Downloader](https://chromewebstore.google.com/detail/mass-downloader-for-insta/ldoldiahbhnbfdihknppjbhgjngibdbe) - Video / Picture / Story Downloaders
-* [Picnob](https://www.picnob.com/) / [2](https://www.piokok.com/) / [3](https://www.pixwox.com/) or [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper) - Picture / Story Downloaders
-* [ThumbTube](https://thumbtube.com/download-instagram-photos-videos) or [scraper-instagram-gui-desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop), [Instaloader](https://github.com/instaloader/instaloader) or [instapick](https://www.instapick.net/) - Picture / Video Downloader
-* [InstaLoader](https://instaloader.github.io/), [ESUIT](https://chromewebstore.google.com/detail/esuit-photos-downloader-f/adighedbfmnpjcjlloooichmbjdefane) - Picture Downloaders
-* [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/) - Video Downloader
 * [Instagram Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button) - Add DL Links to Instagram
 * [otzberg](https://www.otzberg.net/iguserid/index.php) or [Find-User-ID](https://codeofaninja.com/tools/find-instagram-user-id/) - ID Finder
 * [Image Counter](https://openuserjs.org/scripts/darkred/Instagram_-_visible_images_counter) - Count Page Images
@@ -674,10 +667,10 @@
 
 # ► Fediverse Tools
 
-* 🌐 **[Awesome Bluesky](https://github.com/notjuliet/awesome-bluesky)** or [BlueskyDirectory](https://blueskydirectory.com/) - Bluesky Resources
+* 🌐 **[Awesome Bluesky](https://github.com/fishttp/awesome-bluesky)** / [2](https://github.com/notjuliet/awesome-bluesky) or [BlueskyDirectory](https://blueskydirectory.com/) - Bluesky Resources
 * 🌐 **[Fediverse.Party](https://fediverse.party/)** - Fediverse Software Index
 * ⭐ **[Fediverse Observer](https://fediverse.observer/)** - Fediverse Instances
-* ⭐ **[Bluesky](https://bsky.app/)** - Federated Twitter Alt / [App Directory](https://docs.bsky.app/showcase) / [Twitter Import](https://github.com/kawamataryo/sky-follower-bridge), [2](https://github.com/marcomaroni-github/twitter-to-bluesky) / [TUI](https://github.com/sugyan/tuisky) / [Post Sync](https://github.com/louisgrasset/touitomamout)
+* ⭐ **[Bluesky](https://bsky.app/)** - Federated Twitter Alt / [App Directory](https://docs.bsky.app/showcase) / [Twitter Import](https://github.com/kawamataryo/sky-follower-bridge), [2](https://github.com/marcomaroni-github/twitter-to-bluesky) / [TUI](https://github.com/sugyan/tuisky) / [Post Sync](https://github.com/louisgrasset/touitomamout) / [Dashboard](https://deck.blue/)
 * [FediDB](https://fedidb.org/) or [The Federation](https://the-federation.info/) - Network Statistics
 * [Fedi.Tips](https://fedi.tips/) - Fediverse Guide
 * [FediSearch](https://fedi-search.com/) - Fediverse Search
